@@ -1,0 +1,6 @@
+Nombre:Nicolas
+
+Telefono:3212113205
+
+Categoria:Amigo
+
